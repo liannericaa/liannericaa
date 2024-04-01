@@ -22,6 +22,9 @@ As an aspiring IT professional, I am deeply immersed in the world of technology,
      <img src="https://img.shields.io/static/v1?message=Facebook&logo=linkedin&label=&color=1877F2&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="facebook logo"/>
   </a>
 
+  <a href="https://www.instagram.com/in/liannericaa/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cd486b&logoColor=maroon&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  </a>
 
    <a href="mailto:liannreyes20@gmail.com?subject=From%20Github&body=Hello%20World!" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"           height="35" alt="gmail logo"  />
