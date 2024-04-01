@@ -1,6 +1,6 @@
 
 ###
-
+<a href='https://postimg.cc/4mKfvb2Z' target='_blank'><img src='https://i.postimg.cc/gksxWgvw/Beige-Black-Geometric-Technology-Linked-In-Banner.png' border='0' alt='Beige-Black-Geometric-Technology-Linked-In-Banner'/></a>
 <h1 align="center">Hello! Welcome to my profile 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm Liann Erica Reyes from Makati<br><br>- 🔭 I’m an IT Student from CEU Makati<br>- 📚 I'm currently learning how this github works<br>- ⚡ In my free time I play computer games</p>
