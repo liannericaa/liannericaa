@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">Hello! Welcome 👋</h1>
+<h1 align="center">Hello! Welcome to my profile 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm Liann Erica Reyes from Makati<br><br>- 🔭 I’m an IT Student from CEU Makati<br>- 📚 I'm currently learning how this github works<br>- ⚡ In my free time I play computer games</p>
 
@@ -68,8 +68,26 @@ As an aspiring IT professional, I am deeply immersed in the world of technology,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-
+###
 ---
+
+<h3 align="left">Fun Facts:</h3>
+
+- **Travel Enthusiast**: I love exploring new places and immersing myself in different cultures. Ask me about my favorite travel destinations!
+  
+- **Music Lover**: I enjoy playing the guitar in my free time and find it to be a great way to unwind and express creativity.
+   
+- **Foodie Adventures**: I'm always on the lookout for new and exciting cuisines to try. From street food stalls to fine dining, I'm up for any culinary adventure.
+   
+- **Bookworm**: I have a passion for reading and am constantly adding to my ever-growing book collection. Feel free to recommend your favorite reads!
+   
+- **Fitness Fanatic**: Staying active is important to me, whether it's hitting the gym, going for a run, or practicing yoga. Let's swap workout tips!
+   
+- **Animal Lover**: I'm a proud pet parent and adore spending time with my furry friend. Share your pet stories with me!
+---
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
